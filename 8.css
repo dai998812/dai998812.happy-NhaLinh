@@ -1,0 +1,11 @@
+p{
+    text-align: center;
+}
+input{
+    border: solid 3px #FF4500;
+    background-color: #FFE4E1;
+    color: #0000FF;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
